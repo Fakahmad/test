@@ -6,3 +6,5 @@ Heres the link to the viode https://www.youtube.com/watch?v=RGOj5yH7evk
 I will use git to try to upload some of my python assignments, works and projects.
 
 Now this is the line I am adding after saving it once.
+
+Making changes after cloning from github to my laptop
